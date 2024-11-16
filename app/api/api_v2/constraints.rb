@@ -19,4 +19,3 @@ module APIv2
 
     end
   end
-end
